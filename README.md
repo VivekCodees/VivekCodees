@@ -1,4 +1,16 @@
 # Hi, I'm Vivek Sharma! 👋  
+<div align="center">
+  <img 
+  src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" 
+  alt="Vivek Sharma Banner" 
+  style="
+    width: 100vw; 
+    height: 50vh; 
+    object-fit: contain; 
+    border-radius: 0; 
+    box-shadow: none;"
+/>
+</div>  
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack for building dynamic and responsive web applications using modern technologies. My journey in tech started with a deep fascination for coding, which has now evolved into a career filled with learning, creating, and growing.  
 
@@ -56,8 +68,5 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 - 💼 LinkedIn: [linkedin.com/in/vivsharma57](https://www.linkedin.com/in/vivsharma57)  
 
 ---
-
-## 📄 Resume  
-Feel free to check out my detailed resume [here](./Resume.pdf).  
 
 Thank you for visiting my profile! 😊  
