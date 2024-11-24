@@ -24,8 +24,12 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 
 ## 🚀 Skills  
 **Frontend:**  
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)   
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
@@ -41,25 +45,42 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 
 ---
 
-## 🏆 Achievements  
-- 🥉 **2nd Runner-Up** at **MEGHALUXION 2022** (PRIME MEGHALAYA)  
-- 🖥️ Conducted two basic courses in **Introduction to IT**  
+## 📊 GitHub Stats
 
----
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VivekCodees&show_icons=true&theme=radical" 
+    alt="Vivek's GitHub Stats" 
+    width="48%" 
+    style="margin-bottom: 10px;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VivekCodees&theme=radical" 
+    alt="Vivek's GitHub Streak" 
+    width="48%" 
+    style="margin-bottom: 10px;"
+  />
+</div>
 
-## 🌐 Projects  
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekCodees&layout=compact&theme=radical" 
+    alt="Vivek's Top Languages" 
+    width="48%" 
+  />
+</div>
 
-### **[Pynche Website](https://pynche.com/)**  
-**Tech Stack:** Next.js, React.js, Tailwind CSS  
-- Developed a professional, responsive website with custom components  
-- Enhanced SEO and performance using **server-side rendering**  
-- Live link: [pynche.com](https://pynche.com/) | [GitHub Repository](https://github.com/VivekCodees/pynche)  
 
-### **[Tynrai Website](https://tynrai.org/)**  
-**Tech Stack:** React.js, Tailwind CSS  
-- Designed a visually appealing and accessible website  
-- Ensured cross-device compatibility and improved UX through custom components  
-- Live link: [tynrai.org](https://tynrai.org/) | [GitHub Repository](https://github.com/VivekCodees/tynrai-website.git)  
+📈 Contribution History
+<p align="center" style="width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekCodees&theme=dark">
+</p>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VivekCodees&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Vivek's GitHub Trophies" />
+</div>
 
 ---
 
