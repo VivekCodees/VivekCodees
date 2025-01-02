@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 
 📈 Contribution History
 <p align="center" style="width:100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekCodees&theme=dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekCodees&theme=dark">
 </p>
 
 ## 🏆 GitHub Trophies
